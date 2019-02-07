@@ -31,6 +31,6 @@ ADJ_MAT is a K-by-K symmetric adjacency matrix, of which a non-zero element ADJ_
 
 When output_filename is specified with any string except for 'NA', a Cytoscape compatible 'output_filename.txt' will be generated. The .txt file can be imported to Cytoscape for construction, visualization, and analyses of the modulated interaction network.
 
-Reference: The MAGIC tool is for academic purposes only and all rights are reserved. To reference the MAGIC algorithm or the tool, please cite the paper: Hsiao and Chiu et al. Differential network analysis reveals the genome-wide landscape of estrogen receptor modulation in hormonal cancers. Scientific Reports. 2016;6:23035. doi:10.1038/srep23035. Mathematical details and biological applications of MAGIC can be found in this paper. For questions and comments regarding the MAGIC tool, please contact us at f99945006@ntu.edu.tw
+Reference: The MAGIC tool is for academic purposes only and all rights are reserved. To reference the MAGIC algorithm or the tool, please cite the paper: Hsiao and Chiu et al. Differential network analysis reveals the genome-wide landscape of estrogen receptor modulation in hormonal cancers. Scientific Reports. 2016;6:23035. doi:10.1038/srep23035. Mathematical details and biological applications of MAGIC can be found in this paper.
 
 Enjoy!
